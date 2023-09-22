@@ -1,0 +1,4 @@
+exist
+key
+own
+word
