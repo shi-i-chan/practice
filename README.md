@@ -72,11 +72,11 @@ Algorithms
   - ###### [Tower of hanoi](https://github.com/shi-i-chan/practice/blob/main/python/recursion/tower_of_hanoi.py)
 
 - ### Dynamic programming:
-  - ###### [1D](https://github.com/shi-i-chan/practice/blob/main/python/dinamical_programming/1D.py)
-  - ###### [2D](https://github.com/shi-i-chan/practice/blob/main/python/dinamical_programming/2D.py)
-  - ###### [LCS and LIS](https://github.com/shi-i-chan/practice/blob/main/python/dinamical_programming/LCS_and_LIS.py)
-  - ###### [Knapsack problem](https://github.com/shi-i-chan/practice/blob/main/python/dinamical_programming/knapsack_problem.py)
-  - ###### [Levenshtein distance](https://github.com/shi-i-chan/practice/blob/main/python/dinamical_programming/levenshtein_distance.py)
+  - ###### [1D](https://github.com/shi-i-chan/practice/blob/main/python/dynamical_programming/1D.py)
+  - ###### [2D](https://github.com/shi-i-chan/practice/blob/main/python/dynamical_programming/2D.py)
+  - ###### [LCS and LIS](https://github.com/shi-i-chan/practice/blob/main/python/dynamical_programming/LCS_and_LIS.py)
+  - ###### [Knapsack problem](https://github.com/shi-i-chan/practice/blob/main/python/dynamical_programming/knapsack_problem.py)
+  - ###### [Levenshtein distance](https://github.com/shi-i-chan/practice/blob/main/python/dynamical_programming/levenshtein_distance.py)
 
 - ### Structures:
   - ###### [Stack](https://github.com/shi-i-chan/practice/blob/main/python/structures/stack.py)
@@ -93,6 +93,60 @@ Algorithms
 
 </details>
 
+<details>
+<summary>
+SQL
+</summary>
+
+<ul>
+
+<details>
+<summary>
+Codewars
+</summary>
+
+<ul>
+
+- ### 6 kyu:
+  - ###### [SQL Basics - Monsters using CASE](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Basics%20-%20Monsters%20using%20CASE.sql)
+  - ###### [SQL Basics Simple EXISTS](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Basics%20Simple%20EXISTS.sql)
+  - ###### [SQL Basics Simple HAVING](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Basics%20Simple%20HAVING.sql)
+  - ###### [SQL Basics Simple JOIN and RANK](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Basics%20Simple%20JOIN%20and%20RANK.sql)
+  - ###### [SQL Basics Top 10 customers by total payments amount](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Basics%20Top%2010%20customers%20by%20total%20payments%20amount.sql)
+  - ###### [SQL Bug Fixing Fix the JOIN](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Bug%20Fixing%20Fix%20the%20JOIN.sql)
+
+
+- ### 7 kyu:
+  - ###### [Best-Selling Books (SQL for Beginners #5)](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Best-Selling%20Books%20(SQL%20for%20Beginners%20%235).sql)
+  - ###### [Complementary DNA](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Complementary%20DNA.sql)
+  - ###### [Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%20%236).sql)
+  - ###### [Disemvowel Trolls](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Disemvowel%20Trolls.sql)
+  - ###### [Maximum Multiple](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Maximum%20Multiple.sql)
+  - ###### [SQL Basics Simple GROUP BY](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20Basics%20Simple%20GROUP%20BY.sql)
+  - ###### [SQL Basics Simple JOIN with COUNT](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20Basics%20Simple%20JOIN%20with%20COUNT.sql)
+  - ###### [SQL Basics Simple JOIN](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20Basics%20Simple%20JOIN.sql)
+  - ###### [SQL easy regex extraction](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20easy%20regex%20extraction.sql)
+  - ###### [SQL with Harry Potter Sorting Hat Comparators](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20with%20Harry%20Potter%20Sorting%20Hat%20Comparators.sql)
+  - ###### [SQL with LOTR Elven Wildcards](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20with%20LOTR%20Elven%20Wildcards.sql)
+  - ###### [SQL with Pokemon Damage Multipliers](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20with%20Pokemon%20Damage%20Multipliers.sql)
+  - ###### [SQL with Street Fighter Total Wins](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20with%20Street%20Fighter%20Total%20Wins.sql)
+  - ###### [Sum of Triangular Numbers](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Sum%20of%20Triangular%20Numbers.sql)
+  - ###### [Sum of angles](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Sum%20of%20angles.sql)
+  - ###### [Sum of odd numbers](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Sum%20of%20odd%20numbers.sql)
+  - ###### [Triangular Treasure](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Triangular%20Treasure.sql)
+  - ###### [Vowel Count](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Vowel%20Count.sql)
+
+- ### 8 kyu:
+
+</ul>
+
+</details>
+
+</details>
+
+</ul>
+
+</details>
 
 <details>
 <summary>
