@@ -6,7 +6,7 @@ verilog_info = ''
 
 a = ['C#', 'assembler', 'verilog']
 
-folders = ['Python', 'SQL']
+folders = ['python', 'SQL']
 
 
 def add_space() -> NoReturn:
