@@ -14,6 +14,8 @@ Machine learning
   - ###### [Gym mountain car](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/reinforcement_learning/mountain%20car/mountain_car.py)
 
 - ### Neural networks:
+  - ###### [Dense autoencoder](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/autoencoders/dense_autoencoder.ipynb)
+  - ###### [CNN autoencoder](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/autoencoders/cnn_autoencoder.ipynb)
   - ###### [CNN filters visualizaion](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/cnn_filters_visualization.ipynb)
   - ###### [Simple U-Net segmentation](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/neural_networks/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb) 
   - ###### [Keras CNN timeseries classification from scratch](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/keras%20timeseries%20classification%20from%20scratch/Keras%20timeseries%20classification.ipynb)
