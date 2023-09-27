@@ -1,0 +1,13 @@
+<details>
+<summary>
+Assembler
+</summary>
+
+<ul>
+  
+  - ###### [PWM](https://github.com/No1n/some-programming/blob/master/assembler/PWM.asm)
+  - ###### [Flashing diod](https://github.com/No1n/some-programming/blob/master/assembler/flashing%20diod.asm)
+
+</ul>
+
+</details>

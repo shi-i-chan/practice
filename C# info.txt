@@ -1,0 +1,33 @@
+<details>
+<summary>
+C#
+</summary>
+
+<ul>
+
+- ## Algorithms:
+   - ###### [Dijkstra’s algorithm](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L169-L230)
+   
+   - ###### [Simulated annealing](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L12-L109)
+   
+   - ###### [Knight's tour](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L235-L322)
+   
+   - ###### [Brute force all paths on the graph between two points](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L114-L164)
+
+- ## Structures:
+   - ###### [Graph](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L369-L456)
+
+- ## Other:
+  - ###### [Brown-Robinson iterative method](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Brown-Robinson%20iterative%20method%20FORM.cs)
+  
+  <ul>
+   
+  ![image](https://github.com/shi-i-chan/some-practice/blob/master/C%23/Game%20theory/brown%20form.jpg)
+   
+  </ul>
+  
+  - ###### [Matrix without saddle point generator](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Matrix%20generator%20without%20saddle%20point.cs)
+
+</ul>
+
+</details>

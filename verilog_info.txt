@@ -1,0 +1,12 @@
+<details>
+<summary>
+Verilog
+</summary>
+
+<ul>
+  
+  - ###### [PWM](https://github.com/No1n/some-programming/blob/master/verilog/PWM/PWM.v)
+
+</ul>
+
+</details>
