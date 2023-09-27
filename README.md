@@ -5,7 +5,7 @@ Generated automatically
 <details>
 <summary>
 
-### Python
+### python
 
 </summary>
 
@@ -31,15 +31,15 @@ Generated automatically
 
 <ul>
 
-   - ###### [1D](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/dynamical_programming/1D.py)
+   - ###### [1D](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/dynamical_programming/1D.py)
 
-   - ###### [2D](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/dynamical_programming/2D.py)
+   - ###### [2D](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/dynamical_programming/2D.py)
 
-   - ###### [knapsack_problem](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/dynamical_programming/knapsack_problem.py)
+   - ###### [knapsack_problem](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/dynamical_programming/knapsack_problem.py)
 
-   - ###### [LCS_and_LIS](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/dynamical_programming/LCS_and_LIS.py)
+   - ###### [LCS_and_LIS](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/dynamical_programming/LCS_and_LIS.py)
 
-   - ###### [levenshtein_distance](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/dynamical_programming/levenshtein_distance.py)
+   - ###### [levenshtein_distance](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/dynamical_programming/levenshtein_distance.py)
 
 
 </ul>
@@ -56,17 +56,17 @@ Generated automatically
 
 <ul>
 
-   - ###### [dichotomy_min_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/dichotomy_min_search.py)
+   - ###### [dichotomy_min_search](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/function_minimizing/dichotomy_min_search.py)
 
-   - ###### [fibonacci_min_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/fibonacci_min_search.py)
+   - ###### [fibonacci_min_search](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/function_minimizing/fibonacci_min_search.py)
 
-   - ###### [golden_section_min_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/golden_section_min_search.py)
+   - ###### [golden_section_min_search](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/function_minimizing/golden_section_min_search.py)
 
-   - ###### [gradient_min_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/gradient_min_search.py)
+   - ###### [gradient_min_search](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/function_minimizing/gradient_min_search.py)
 
-   - ###### [swann_algorithm](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/swann_algorithm.py)
+   - ###### [swann_algorithm](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/function_minimizing/swann_algorithm.py)
 
-   - ###### [uniform_min_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/uniform_min_search.py)
+   - ###### [uniform_min_search](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/function_minimizing/uniform_min_search.py)
 
 
 </ul>
@@ -93,7 +93,7 @@ Generated automatically
 
 <ul>
 
-   - ###### [maze_exploration](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/maze_exploration/maze_exploration.py)
+   - ###### [maze_exploration](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/other/maze_exploration/maze_exploration.py)
 
 
 </ul>
@@ -110,20 +110,20 @@ Generated automatically
 
 <ul>
 
-   - ###### [simple_parser](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/simple_parser/simple_parser.py)
+   - ###### [simple_parser](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/other/simple_parser/simple_parser.py)
 
 
 </ul>
 
 </details>
 
-   - ###### [Brown_Robinson_iterative_method](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/Brown_Robinson_iterative_method.py)
+   - ###### [Brown_Robinson_iterative_method](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/other/Brown_Robinson_iterative_method.py)
 
-   - ###### [Check_braces_correct](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/Check_braces_correct.py)
+   - ###### [Check_braces_correct](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/other/Check_braces_correct.py)
 
-   - ###### [eratosthenes_sieve](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/eratosthenes_sieve.py)
+   - ###### [eratosthenes_sieve](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/other/eratosthenes_sieve.py)
 
-   - ###### [Matrix_with_saddle_point_generator](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/Matrix_with_saddle_point_generator.py)
+   - ###### [Matrix_with_saddle_point_generator](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/other/Matrix_with_saddle_point_generator.py)
 
 
 </ul>
@@ -140,19 +140,19 @@ Generated automatically
 
 <ul>
 
-   - ###### [permutation_generator](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/permutation_generator.py)
+   - ###### [permutation_generator](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/recursion/permutation_generator.py)
 
-   - ###### [recuresive_factorial](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/recuresive_factorial.py)
+   - ###### [recuresive_factorial](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/recursion/recuresive_factorial.py)
 
-   - ###### [recuresive_fibonacci](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/recuresive_fibonacci.py)
+   - ###### [recuresive_fibonacci](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/recursion/recuresive_fibonacci.py)
 
-   - ###### [recursive_exponentiation](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/recursive_exponentiation.py)
+   - ###### [recursive_exponentiation](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/recursion/recursive_exponentiation.py)
 
-   - ###### [recursive_GCD](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/recursive_GCD.py)
+   - ###### [recursive_GCD](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/recursion/recursive_GCD.py)
 
-   - ###### [recursive_square](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/recursive_square.py)
+   - ###### [recursive_square](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/recursion/recursive_square.py)
 
-   - ###### [tower_of_hanoi](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/tower_of_hanoi.py)
+   - ###### [tower_of_hanoi](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/recursion/tower_of_hanoi.py)
 
 
 </ul>
@@ -169,9 +169,9 @@ Generated automatically
 
 <ul>
 
-   - ###### [binary_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/search/binary_search.py)
+   - ###### [binary_search](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/search/binary_search.py)
 
-   - ###### [pattern_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/search/pattern_search.py)
+   - ###### [pattern_search](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/search/pattern_search.py)
 
 
 </ul>
@@ -188,19 +188,19 @@ Generated automatically
 
 <ul>
 
-   - ###### [bubble_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/bubble_sort.py)
+   - ###### [bubble_sort](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/sorting/bubble_sort.py)
 
-   - ###### [check_sorted](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/check_sorted.py)
+   - ###### [check_sorted](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/sorting/check_sorted.py)
 
-   - ###### [counting_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/counting_sort.py)
+   - ###### [counting_sort](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/sorting/counting_sort.py)
 
-   - ###### [insertion_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/insertion_sort.py)
+   - ###### [insertion_sort](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/sorting/insertion_sort.py)
 
-   - ###### [merge_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/merge_sort.py)
+   - ###### [merge_sort](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/sorting/merge_sort.py)
 
-   - ###### [quick_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/quick_sort.py)
+   - ###### [quick_sort](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/sorting/quick_sort.py)
 
-   - ###### [selection_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/selection_sort.py)
+   - ###### [selection_sort](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/sorting/selection_sort.py)
 
 
 </ul>
@@ -217,11 +217,11 @@ Generated automatically
 
 <ul>
 
-   - ###### [linked_list](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/structures/linked_list.py)
+   - ###### [linked_list](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/structures/linked_list.py)
 
-   - ###### [queue](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/structures/queue.py)
+   - ###### [queue](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/structures/queue.py)
 
-   - ###### [stack](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/structures/stack.py)
+   - ###### [stack](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/structures/stack.py)
 
 
 </ul>
@@ -253,9 +253,9 @@ Generated automatically
 
 <ul>
 
-   - ###### [Extract_the_domain_name_from_a_URL](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/5_kyu/Extract_the_domain_name_from_a_URL.py)
+   - ###### [Extract_the_domain_name_from_a_URL](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Extract_the_domain_name_from_a_URL.py)
 
-   - ###### [Moving_Zeros_To_The_End](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/5_kyu/Moving_Zeros_To_The_End.py)
+   - ###### [Moving_Zeros_To_The_End](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Moving_Zeros_To_The_End.py)
 
 
 </ul>
@@ -272,21 +272,21 @@ Generated automatically
 
 <ul>
 
-   - ###### [Count_characters_in_your_string](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Count_characters_in_your_string.py)
+   - ###### [Count_characters_in_your_string](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Count_characters_in_your_string.py)
 
-   - ###### [Decompose_a_number](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Decompose_a_number.py)
+   - ###### [Decompose_a_number](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Decompose_a_number.py)
 
-   - ###### [Financing_Plan_on_Planet_XY140Z_n](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Financing_Plan_on_Planet_XY140Z_n.py)
+   - ###### [Financing_Plan_on_Planet_XY140Z_n](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Financing_Plan_on_Planet_XY140Z_n.py)
 
-   - ###### [Find_the_odd_int](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Find_the_odd_int.py)
+   - ###### [Find_the_odd_int](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Find_the_odd_int.py)
 
-   - ###### [Levenshtein_Distance](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Levenshtein_Distance.py)
+   - ###### [Levenshtein_Distance](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Levenshtein_Distance.py)
 
-   - ###### [Split_Strings](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Split_Strings.py)
+   - ###### [Split_Strings](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Split_Strings.py)
 
-   - ###### [Tribonacci_Sequence](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Tribonacci_Sequence.py)
+   - ###### [Tribonacci_Sequence](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Tribonacci_Sequence.py)
 
-   - ###### [Unique_In_Order](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Unique_In_Order.py)
+   - ###### [Unique_In_Order](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Unique_In_Order.py)
 
 
 </ul>
@@ -303,9 +303,9 @@ Generated automatically
 
 <ul>
 
-   - ###### [DNA_to_RNA_Conversion](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/8_kyu/DNA_to_RNA_Conversion.py)
+   - ###### [DNA_to_RNA_Conversion](https://github.com/shi-i-chan/practice/tree/main/python/codewars/8_kyu/DNA_to_RNA_Conversion.py)
 
-   - ###### [Return_Negative](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/8_kyu/Return_Negative.py)
+   - ###### [Return_Negative](https://github.com/shi-i-chan/practice/tree/main/python/codewars/8_kyu/Return_Negative.py)
 
 
 </ul>
@@ -337,11 +337,11 @@ Generated automatically
 
 <ul>
 
-   - ###### [autoencoders](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/autoencoders/autoencoders.py)
+   - ###### [autoencoders](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/autoencoders/autoencoders.py)
 
-   - ###### [cnn_autoencoder](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/autoencoders/cnn_autoencoder.ipynb)
+   - ###### [cnn_autoencoder](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/autoencoders/cnn_autoencoder.ipynb)
 
-   - ###### [dense_autoencoder](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/autoencoders/dense_autoencoder.ipynb)
+   - ###### [dense_autoencoder](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/autoencoders/dense_autoencoder.ipynb)
 
 
 </ul>
@@ -368,7 +368,7 @@ Generated automatically
 
 <ul>
 
-   - ###### [1_The_functional_api](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/keras_tutorials/Developer_guides/1_The_functional_api.ipynb)
+   - ###### [1_The_functional_api](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/keras_tutorials/Developer_guides/1_The_functional_api.ipynb)
 
 
 </ul>
@@ -385,7 +385,7 @@ Generated automatically
 
 <ul>
 
-   - ###### [1_Introduction_to_keras_for_engineers](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/keras_tutorials/Getting_started/1_Introduction_to_keras_for_engineers.ipynb)
+   - ###### [1_Introduction_to_keras_for_engineers](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/keras_tutorials/Getting_started/1_Introduction_to_keras_for_engineers.ipynb)
 
 
 </ul>
@@ -402,7 +402,7 @@ Generated automatically
 
 <ul>
 
-   - ###### [Keras_timeseries_classification](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/keras_tutorials/keras_timeseries_classification_from_scratch/Keras_timeseries_classification.ipynb)
+   - ###### [Keras_timeseries_classification](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/keras_tutorials/keras_timeseries_classification_from_scratch/Keras_timeseries_classification.ipynb)
 
 
 </ul>
@@ -464,18 +464,18 @@ Generated automatically
 
 </details>
 
-   - ###### [unet_two_bricks_segmentation](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/neural_networks/unet_two_bricks_segmentation/unet_two_bricks_segmentation.ipynb)
+   - ###### [unet_two_bricks_segmentation](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/neural_networks/unet_two_bricks_segmentation/unet_two_bricks_segmentation.ipynb)
 
 
 </ul>
 
 </details>
 
-   - ###### [MNIST](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/neural_networks/MNIST.ipynb)
+   - ###### [MNIST](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/neural_networks/MNIST.ipynb)
 
-   - ###### [MNIST_Fashion](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/neural_networks/MNIST_Fashion.ipynb)
+   - ###### [MNIST_Fashion](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/neural_networks/MNIST_Fashion.ipynb)
 
-   - ###### [RNN_text_generation_example](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/neural_networks/RNN_text_generation_example.ipynb)
+   - ###### [RNN_text_generation_example](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/neural_networks/RNN_text_generation_example.ipynb)
 
 
 </ul>
@@ -502,33 +502,33 @@ Generated automatically
 
 <ul>
 
-   - ###### [make_q_table_gif](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/reinforcement_learning/mountain_car/make_q_table_gif.py)
+   - ###### [make_q_table_gif](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/reinforcement_learning/mountain_car/make_q_table_gif.py)
 
-   - ###### [mountain_car](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/reinforcement_learning/mountain_car/mountain_car.py)
+   - ###### [mountain_car](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/reinforcement_learning/mountain_car/mountain_car.py)
 
-   - ###### [mountain_car_save_q_tables_as_images](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/reinforcement_learning/mountain_car/mountain_car_save_q_tables_as_images.py)
+   - ###### [mountain_car_save_q_tables_as_images](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/reinforcement_learning/mountain_car/mountain_car_save_q_tables_as_images.py)
 
-   - ###### [mountain_car_show_q_table](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/reinforcement_learning/mountain_car/mountain_car_show_q_table.py)
-
-
-</ul>
-
-</details>
+   - ###### [mountain_car_show_q_table](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/reinforcement_learning/mountain_car/mountain_car_show_q_table.py)
 
 
 </ul>
 
 </details>
 
-   - ###### [cnn_filters_visualization](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/cnn_filters_visualization.ipynb)
 
-   - ###### [confusion_matrix_seaborn_sklearn](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/confusion_matrix_seaborn_sklearn.ipynb)
+</ul>
 
-   - ###### [HoltWinters](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/HoltWinters.ipynb)
+</details>
 
-   - ###### [kmeans_image_clustering_so_bad](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/kmeans_image_clustering_so_bad.ipynb)
+   - ###### [cnn_filters_visualization](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/cnn_filters_visualization.ipynb)
 
-   - ###### [ts_smoothing](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/ts_smoothing.ipynb)
+   - ###### [confusion_matrix_seaborn_sklearn](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/confusion_matrix_seaborn_sklearn.ipynb)
+
+   - ###### [HoltWinters](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/HoltWinters.ipynb)
+
+   - ###### [kmeans_image_clustering_so_bad](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/kmeans_image_clustering_so_bad.ipynb)
+
+   - ###### [ts_smoothing](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/ts_smoothing.ipynb)
 
 
 </ul>
