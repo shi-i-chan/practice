@@ -98,3 +98,5 @@ for lang in read_langs:
 	info = info + read_txt(lang)
 
 save_readme(info)
+
+print('README generated.')
