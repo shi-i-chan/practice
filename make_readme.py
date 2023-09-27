@@ -1,12 +1,6 @@
 import os
 
-from typing import NoReturn
-
-verilog_info = ''
-
-a = ['C#', 'assembler', 'verilog']
-
-folders = ['python', 'SQL']
+from typing import NoReturn, List
 
 
 def add_space() -> NoReturn:
@@ -53,23 +47,7 @@ def rename_path(path: str) -> str:
 	return replaced_path
 
 
-url = 'https://github.com/shi-i-chan/practice/tree/main/'
-code = []
-
-extensions_list = [
-	'.py',
-	'.ipynb',
-	'.sql',
-]
-
-black_list = [
-	'autoencoders.py',
-	'keras timeseries classification from scratch',
-	'keras tutorials',
-
-]
-
-def generate_info(folders):
+def generate_readme(folders: List[str]):
 	for folder in folders:
 		if ' ' in folder or '-' in folder: folder = rename_path(folder)
 		if os.path.isdir(folder):
@@ -78,15 +56,45 @@ def generate_info(folders):
 			sub = [f'{folder}/{file}' for file in os.listdir(folder)]
 			folders = [s for s in sub if os.path.isdir(s)]
 			files = [s for s in sub if os.path.isfile(s)]
-			generate_info(folders + files)
+			generate_readme(folders + files)
 
 			details_close()
 		elif os.path.isfile(folder):
 			fn, extension = os.path.splitext(folder)
 			if extension in extensions_list:
 				add_line(fn.split('/')[-1], f'{url}{folder}')
+	return code
 
-generate_info(folders)
 
-for row in code:
-	print(row)
+def read_txt(lang: str) -> List[str]:
+	fn = f'readme_info/{lang}_info.txt'
+	with open(fn, 'r', encoding='utf-8') as f:
+		return f.readlines() 
+
+
+def save_readme(lines: List[str]) -> NoReturn:
+	with open('README.md', 'w') as f:
+	    for line in lines:
+	        f.write(f"{line}\n")
+
+
+code = ['Generated automatically', '\n']
+
+url = 'https://github.com/shi-i-chan/practice/tree/main/'
+
+extensions_list = [
+	'.py',
+	'.ipynb',
+	'.sql',
+]
+
+gen_lagns = ['Python', 'SQL']
+read_langs = ['C#', 'assembler', 'verilog']
+
+
+info = generate_readme(gen_lagns)
+
+for lang in read_langs:
+	info = info + read_txt(lang)
+
+save_readme(info)

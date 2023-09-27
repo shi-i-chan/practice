@@ -1,253 +1,865 @@
+Generated automatically
+
+
+
 <details>
 <summary>
-Python
+
+### Python
+
 </summary>
 
 <ul>
 
-<details>
-<summary>
-Machine learning
-</summary>
-  
-- ### Reinforcement learning:
-  - ###### [Gym mountain car](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/reinforcement_learning/mountain%20car/mountain_car.py)
-
-- ### Neural networks:
-  - ###### [Dense autoencoder](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/autoencoders/dense_autoencoder.ipynb)
-  - ###### [CNN autoencoder](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/autoencoders/cnn_autoencoder.ipynb)
-  - ###### [CNN filters visualizaion](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/cnn_filters_visualization.ipynb)
-  - ###### [Simple U-Net segmentation](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/neural_networks/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb) 
-  - ###### [Keras CNN timeseries classification from scratch](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/keras%20timeseries%20classification%20from%20scratch/Keras%20timeseries%20classification.ipynb)
-  - ###### [MNIST](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/neural_networks/MNIST.ipynb)
-  - ###### [Fashion MNIST](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/neural_networks/MNIST%20Fashion.ipynb)
-  - ###### [Simple RNN text generation](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/neural_networks/RNN%20text%20generation%20example.ipynb)
-  
-
-- ### Something:
-  - ###### [Simple K-means image segmentation](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/kmeans%20image%20clustering%20so%20bad.ipynb)
-  - ###### [Time series smoothing](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/ts_smoothing.ipynb)
-  - ###### [Holt-Winters](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/HoltWinters.ipynb)
-  - ###### [Confusion matrix](https://github.com/shi-i-chan/practice/blob/main/python/machine_learning/confusion%20matrix%20seaborn%20sklearn.ipynb)
-
-</details>
-
 
 <details>
 <summary>
-Algorithms
-</summary>
-  
-- ### Other:
-  - ###### [Maze exploration (junk code -_-)](https://github.com/shi-i-chan/practice/blob/main/python/other/maze%20exploration/maze%20exploration.py)
-  ![til](https://github.com/shi-i-chan/practice/blob/main/python/other/maze%20exploration/animation.gif)
-  - ###### [Brown-Robinson iterative method](https://github.com/shi-i-chan/practice/blob/main/python/other/Brown-Robinson%20iterative%20method.py)
-  - ###### [Eratosthenes sieve](https://github.com/shi-i-chan/practice/blob/main/python/other/eratosthenes_sieve.py)
-  - ###### [Matrix with saddle point generator](https://github.com/shi-i-chan/practice/blob/main/python/other/Matrix%20with%20saddle%20point%20generator.py)
-  - ###### [Check braces correct](https://github.com/shi-i-chan/practice/blob/main/python/other/Check%20braces%20correct.py)
-  - ###### [Simple parser](https://github.com/shi-i-chan/practice/blob/main/python/other/simple%20parser/simple%20parser.py)
 
-- ### Sorting:
-  - ###### [Check sorted](https://github.com/shi-i-chan/practice/blob/main/python/sorting/check_sorted.py)
-  - ###### [Bubble sort](https://github.com/shi-i-chan/practice/blob/main/python/sorting/bubble_sort.py)
-  - ###### [Insertion sort](https://github.com/shi-i-chan/practice/blob/main/python/sorting/insertion_sort.py)
-  - ###### [Selection sort](https://github.com/shi-i-chan/practice/blob/main/python/sorting/selection_sort.py)
-  - ###### [Counting sort](https://github.com/shi-i-chan/practice/blob/main/python/sorting/counting_sort.py)
-  - ###### [Merge sort](https://github.com/shi-i-chan/practice/blob/main/python/sorting/merge_sort.py)
-  - ###### [Quicksort](https://github.com/shi-i-chan/practice/blob/main/python/sorting/quick_sort.py)
+### algorithms
 
-- ### Optimization:
-  - ###### [Swannn's algorithm](https://github.com/shi-i-chan/practice/blob/main/python/function_minimizing/swann_algorithm.py)
-  - ###### [Uniform search](https://github.com/shi-i-chan/practice/blob/main/python/function_minimizing/uniform_min_search.py)
-  - ###### [Dichotomy search](https://github.com/shi-i-chan/practice/blob/main/python/function_minimizing/dichotomy_min_search.py)
-  - ###### [Fibonacci search](https://github.com/shi-i-chan/practice/blob/main/python/function_minimizing/fibonacci_min_search.py)
-  - ###### [Golden section search](https://github.com/shi-i-chan/practice/blob/main/python/function_minimizing/golden_section_min_search.py)
-  - ###### [Gradient search](https://github.com/shi-i-chan/practice/blob/main/python/function_minimizing/gradient_min_search.py)
-
-- ### Recursion:
-  - ###### [Recursive square](https://github.com/shi-i-chan/practice/blob/main/python/recursion/recursive_square.py)
-  - ###### [Recursive factorial](https://github.com/shi-i-chan/practice/blob/main/python/recursion/recuresive_factorial.py)
-  - ###### [Recursive fibonacci](https://github.com/shi-i-chan/practice/blob/main/python/recursion/recuresive_fibonacci.py)
-  - ###### [Recursive exponentiation](https://github.com/shi-i-chan/practice/blob/main/python/recursion/recursive_exponentiation.py)
-  - ###### [Permutation generator](https://github.com/shi-i-chan/practice/blob/main/python/recursion/permutation_generator.py)
-  - ###### [Recursive GCD](https://github.com/shi-i-chan/practice/blob/main/python/recursion/recursive_GCD.py)
-  - ###### [Tower of hanoi](https://github.com/shi-i-chan/practice/blob/main/python/recursion/tower_of_hanoi.py)
-
-- ### Dynamic programming:
-  - ###### [1D](https://github.com/shi-i-chan/practice/blob/main/python/dynamical_programming/1D.py)
-  - ###### [2D](https://github.com/shi-i-chan/practice/blob/main/python/dynamical_programming/2D.py)
-  - ###### [LCS and LIS](https://github.com/shi-i-chan/practice/blob/main/python/dynamical_programming/LCS_and_LIS.py)
-  - ###### [Knapsack problem](https://github.com/shi-i-chan/practice/blob/main/python/dynamical_programming/knapsack_problem.py)
-  - ###### [Levenshtein distance](https://github.com/shi-i-chan/practice/blob/main/python/dynamical_programming/levenshtein_distance.py)
-
-- ### Structures:
-  - ###### [Stack](https://github.com/shi-i-chan/practice/blob/main/python/structures/stack.py)
-  - ###### [Linked list](https://github.com/shi-i-chan/practice/blob/main/python/structures/linked%20list.py)
-  - ###### [Queue](https://github.com/shi-i-chan/practice/blob/main/python/structures/queue.py)
-
-- ### Search:
-  - ###### [Binary search](https://github.com/shi-i-chan/practice/blob/main/python/search/binary_search.py)
-  - ###### [Pattern search](https://github.com/shi-i-chan/practice/blob/main/python/search/pattern_search.py)
-
-</details>
-
-</ul>
-
-</details>
-
-<details>
-<summary>
-SQL
 </summary>
 
 <ul>
 
+
 <details>
 <summary>
-Codewars
+
+### dynamical_programming
+
 </summary>
 
 <ul>
 
-- ### 6 kyu:
-  - ###### [SQL Basics - Monsters using CASE](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Basics%20-%20Monsters%20using%20CASE.sql)
-  - ###### [SQL Basics Simple EXISTS](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Basics%20Simple%20EXISTS.sql)
-  - ###### [SQL Basics Simple HAVING](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Basics%20Simple%20HAVING.sql)
-  - ###### [SQL Basics Simple JOIN and RANK](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Basics%20Simple%20JOIN%20and%20RANK.sql)
-  - ###### [SQL Basics Top 10 customers by total payments amount](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Basics%20Top%2010%20customers%20by%20total%20payments%20amount.sql)
-  - ###### [SQL Bug Fixing Fix the JOIN](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/6%20kyu/SQL%20Bug%20Fixing%20Fix%20the%20JOIN.sql)
+   - ###### [1D](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/dynamical_programming/1D.py)
 
+   - ###### [2D](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/dynamical_programming/2D.py)
 
-- ### 7 kyu:
-  - ###### [Best-Selling Books (SQL for Beginners #5)](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Best-Selling%20Books%20(SQL%20for%20Beginners%20%235).sql)
-  - ###### [Complementary DNA](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Complementary%20DNA.sql)
-  - ###### [Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%20%236).sql)
-  - ###### [Disemvowel Trolls](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Disemvowel%20Trolls.sql)
-  - ###### [Maximum Multiple](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Maximum%20Multiple.sql)
-  - ###### [SQL Basics Simple GROUP BY](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20Basics%20Simple%20GROUP%20BY.sql)
-  - ###### [SQL Basics Simple JOIN with COUNT](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20Basics%20Simple%20JOIN%20with%20COUNT.sql)
-  - ###### [SQL Basics Simple JOIN](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20Basics%20Simple%20JOIN.sql)
-  - ###### [SQL easy regex extraction](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20easy%20regex%20extraction.sql)
-  - ###### [SQL with Harry Potter Sorting Hat Comparators](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20with%20Harry%20Potter%20Sorting%20Hat%20Comparators.sql)
-  - ###### [SQL with LOTR Elven Wildcards](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20with%20LOTR%20Elven%20Wildcards.sql)
-  - ###### [SQL with Pokemon Damage Multipliers](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20with%20Pokemon%20Damage%20Multipliers.sql)
-  - ###### [SQL with Street Fighter Total Wins](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/SQL%20with%20Street%20Fighter%20Total%20Wins.sql)
-  - ###### [Sum of Triangular Numbers](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Sum%20of%20Triangular%20Numbers.sql)
-  - ###### [Sum of angles](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Sum%20of%20angles.sql)
-  - ###### [Sum of odd numbers](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Sum%20of%20odd%20numbers.sql)
-  - ###### [Triangular Treasure](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Triangular%20Treasure.sql)
-  - ###### [Vowel Count](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/7%20kyu/Vowel%20Count.sql)
+   - ###### [knapsack_problem](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/dynamical_programming/knapsack_problem.py)
 
-- ### 8 kyu:
-  - ###### [Adults only (SQL for Beginners #1)](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Adults%20only%20(SQL%20for%20Beginners%20%231).sql)
-  - ###### [Beginner Series #1 School Paperwork](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Beginner%20Series%20%231%20School%20Paperwork.sql)
-  - ###### [Beginner Series #2 Clock](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Beginner%20Series%20%232%20Clock.sql)
-  - ###### [Century From Year](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Century%20From%20Year.sql)
-  - ###### [Collect Tuition (SQL for Beginners #4)](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Collect%20Tuition%20(SQL%20for%20Beginners%20%234).sql)
-  - ###### [Convert boolean values to strings 'Yes' or 'No'](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.sql)
-  - ###### [Count Odd Numbers below n](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Count%20Odd%20Numbers%20below%20n.sql)
-  - ###### [Count the number of cubes with paint on](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Count%20the%20number%20of%20cubes%20with%20paint%20on.sql)
-  - ###### [Even or Odd](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Even%20or%20Odd.sql)
-  - ###### [Expressions Matter](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Expressions%20Matter.sql)
-  - ###### [Fake Binary](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Fake%20Binary.sql)
-  - ###### [Find all active students](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Find%20all%20active%20students.sql)
-  - ###### [Function 2 - squaring an argument](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Function%202%20-%20squaring%20an%20argument.sql)
-  - ###### [Get Nth Even Number](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Get%20Nth%20Even%20Number.sql)
-  - ###### [Grasshopper - Check for factor](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Grasshopper%20-%20Check%20for%20factor.sql)
-  - ###### [Grasshopper - Messi goals function](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Grasshopper%20-%20Messi%20goals%20function.sql)
-  - ###### [Grasshopper - Summation](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Grasshopper%20-%20Summation.sql)
-  - ###### [Grasshopper - Terminal game move function](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Grasshopper%20-%20Terminal%20game%20move%20function.sql)
-  - ###### [Is it a palindrome](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Is%20it%20a%20palindrome.sql)
-  - ###### [Is n divisible by x and y](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Is%20n%20divisible%20by%20x%20and%20y.sql)
-  - ###### [Keep Hydrated!](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Keep%20Hydrated!.sql)
-  - ###### [MakeUpperCase](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/MakeUpperCase.sql)
-  - ###### [Multiply](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Multiply.sql)
-  - ###### [On the Canadian Border (SQL for Beginners #2)](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/On%20the%20Canadian%20Border%20(SQL%20for%20Beginners%20%232).sql)
-  - ###### [Opposite number](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Opposite%20number.sql)
-  - ###### [Opposites Attract](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Opposites%20Attract.sql)
-  - ###### [Quarter of the year](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Quarter%20of%20the%20year.sql)
-  - ###### [Register for the Party (SQL for Beginners #3)](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Register%20for%20the%20Party%20(SQL%20for%20Beginners%20%233).sql)
-  - ###### [Remove First and Last Character](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Remove%20First%20and%20Last%20Character.sql)
-  - ###### [Remove String Spaces](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Remove%20String%20Spaces.sql)
-  - ###### [Remove exclamation marks](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Remove%20exclamation%20marks.sql)
-  - ###### [Returning Strings](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Returning%20Strings.sql)
-  - ###### [Reversed Strings](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Reversed%20Strings.sql)
-  - ###### [SQL Basics Mod](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/SQL%20Basics%20Mod.sql)
-  - ###### [Simple multiplication](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Simple%20multiplication.sql)
-  - ###### [String repeat](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/String%20repeat.sql)
-  - ###### [Third Angle of a Triangle](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Third%20Angle%20of%20a%20Triangle.sql)
-  - ###### [Will you make it](https://github.com/shi-i-chan/practice/blob/main/SQL/Codewars/8%20kyu/Will%20you%20make%20it.sql)
+   - ###### [LCS_and_LIS](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/dynamical_programming/LCS_and_LIS.py)
 
+   - ###### [levenshtein_distance](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/dynamical_programming/levenshtein_distance.py)
 
 
 </ul>
 
 </details>
 
-</details>
+
+<details>
+<summary>
+
+### function_minimizing
+
+</summary>
+
+<ul>
+
+   - ###### [dichotomy_min_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/dichotomy_min_search.py)
+
+   - ###### [fibonacci_min_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/fibonacci_min_search.py)
+
+   - ###### [golden_section_min_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/golden_section_min_search.py)
+
+   - ###### [gradient_min_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/gradient_min_search.py)
+
+   - ###### [swann_algorithm](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/swann_algorithm.py)
+
+   - ###### [uniform_min_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/function_minimizing/uniform_min_search.py)
+
 
 </ul>
 
 </details>
 
+
 <details>
 <summary>
-C#
+
+### other
+
 </summary>
 
 <ul>
+
+
+<details>
+<summary>
+
+### maze_exploration
+
+</summary>
+
+<ul>
+
+   - ###### [maze_exploration](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/maze_exploration/maze_exploration.py)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### simple_parser
+
+</summary>
+
+<ul>
+
+   - ###### [simple_parser](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/simple_parser/simple_parser.py)
+
+
+</ul>
+
+</details>
+
+   - ###### [Brown_Robinson_iterative_method](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/Brown_Robinson_iterative_method.py)
+
+   - ###### [Check_braces_correct](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/Check_braces_correct.py)
+
+   - ###### [eratosthenes_sieve](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/eratosthenes_sieve.py)
+
+   - ###### [Matrix_with_saddle_point_generator](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/other/Matrix_with_saddle_point_generator.py)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### recursion
+
+</summary>
+
+<ul>
+
+   - ###### [permutation_generator](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/permutation_generator.py)
+
+   - ###### [recuresive_factorial](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/recuresive_factorial.py)
+
+   - ###### [recuresive_fibonacci](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/recuresive_fibonacci.py)
+
+   - ###### [recursive_exponentiation](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/recursive_exponentiation.py)
+
+   - ###### [recursive_GCD](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/recursive_GCD.py)
+
+   - ###### [recursive_square](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/recursive_square.py)
+
+   - ###### [tower_of_hanoi](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/recursion/tower_of_hanoi.py)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### search
+
+</summary>
+
+<ul>
+
+   - ###### [binary_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/search/binary_search.py)
+
+   - ###### [pattern_search](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/search/pattern_search.py)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### sorting
+
+</summary>
+
+<ul>
+
+   - ###### [bubble_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/bubble_sort.py)
+
+   - ###### [check_sorted](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/check_sorted.py)
+
+   - ###### [counting_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/counting_sort.py)
+
+   - ###### [insertion_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/insertion_sort.py)
+
+   - ###### [merge_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/merge_sort.py)
+
+   - ###### [quick_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/quick_sort.py)
+
+   - ###### [selection_sort](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/sorting/selection_sort.py)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### structures
+
+</summary>
+
+<ul>
+
+   - ###### [linked_list](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/structures/linked_list.py)
+
+   - ###### [queue](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/structures/queue.py)
+
+   - ###### [stack](https://github.com/shi-i-chan/practice/tree/main/Python/algorithms/structures/stack.py)
+
+
+</ul>
+
+</details>
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### codewars
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### 5_kyu
+
+</summary>
+
+<ul>
+
+   - ###### [Extract_the_domain_name_from_a_URL](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/5_kyu/Extract_the_domain_name_from_a_URL.py)
+
+   - ###### [Moving_Zeros_To_The_End](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/5_kyu/Moving_Zeros_To_The_End.py)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### 6_kyu
+
+</summary>
+
+<ul>
+
+   - ###### [Count_characters_in_your_string](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Count_characters_in_your_string.py)
+
+   - ###### [Decompose_a_number](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Decompose_a_number.py)
+
+   - ###### [Financing_Plan_on_Planet_XY140Z_n](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Financing_Plan_on_Planet_XY140Z_n.py)
+
+   - ###### [Find_the_odd_int](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Find_the_odd_int.py)
+
+   - ###### [Levenshtein_Distance](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Levenshtein_Distance.py)
+
+   - ###### [Split_Strings](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Split_Strings.py)
+
+   - ###### [Tribonacci_Sequence](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Tribonacci_Sequence.py)
+
+   - ###### [Unique_In_Order](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/6_kyu/Unique_In_Order.py)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### 8_kyu
+
+</summary>
+
+<ul>
+
+   - ###### [DNA_to_RNA_Conversion](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/8_kyu/DNA_to_RNA_Conversion.py)
+
+   - ###### [Return_Negative](https://github.com/shi-i-chan/practice/tree/main/Python/codewars/8_kyu/Return_Negative.py)
+
+
+</ul>
+
+</details>
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### machine_learning
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### autoencoders
+
+</summary>
+
+<ul>
+
+   - ###### [autoencoders](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/autoencoders/autoencoders.py)
+
+   - ###### [cnn_autoencoder](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/autoencoders/cnn_autoencoder.ipynb)
+
+   - ###### [dense_autoencoder](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/autoencoders/dense_autoencoder.ipynb)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### keras_tutorials
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### Developer_guides
+
+</summary>
+
+<ul>
+
+   - ###### [1_The_functional_api](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/keras_tutorials/Developer_guides/1_The_functional_api.ipynb)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### Getting_started
+
+</summary>
+
+<ul>
+
+   - ###### [1_Introduction_to_keras_for_engineers](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/keras_tutorials/Getting_started/1_Introduction_to_keras_for_engineers.ipynb)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### keras_timeseries_classification_from_scratch
+
+</summary>
+
+<ul>
+
+   - ###### [Keras_timeseries_classification](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/keras_tutorials/keras_timeseries_classification_from_scratch/Keras_timeseries_classification.ipynb)
+
+
+</ul>
+
+</details>
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### neural_networks
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### unet_two_bricks_segmentation
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### image
+
+</summary>
+
+<ul>
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### mask
+
+</summary>
+
+<ul>
+
+
+</ul>
+
+</details>
+
+   - ###### [unet_two_bricks_segmentation](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/neural_networks/unet_two_bricks_segmentation/unet_two_bricks_segmentation.ipynb)
+
+
+</ul>
+
+</details>
+
+   - ###### [MNIST](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/neural_networks/MNIST.ipynb)
+
+   - ###### [MNIST_Fashion](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/neural_networks/MNIST_Fashion.ipynb)
+
+   - ###### [RNN_text_generation_example](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/neural_networks/RNN_text_generation_example.ipynb)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### reinforcement_learning
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### mountain_car
+
+</summary>
+
+<ul>
+
+   - ###### [make_q_table_gif](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/reinforcement_learning/mountain_car/make_q_table_gif.py)
+
+   - ###### [mountain_car](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/reinforcement_learning/mountain_car/mountain_car.py)
+
+   - ###### [mountain_car_save_q_tables_as_images](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/reinforcement_learning/mountain_car/mountain_car_save_q_tables_as_images.py)
+
+   - ###### [mountain_car_show_q_table](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/reinforcement_learning/mountain_car/mountain_car_show_q_table.py)
+
+
+</ul>
+
+</details>
+
+
+</ul>
+
+</details>
+
+   - ###### [cnn_filters_visualization](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/cnn_filters_visualization.ipynb)
+
+   - ###### [confusion_matrix_seaborn_sklearn](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/confusion_matrix_seaborn_sklearn.ipynb)
+
+   - ###### [HoltWinters](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/HoltWinters.ipynb)
+
+   - ###### [kmeans_image_clustering_so_bad](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/kmeans_image_clustering_so_bad.ipynb)
+
+   - ###### [ts_smoothing](https://github.com/shi-i-chan/practice/tree/main/Python/machine_learning/ts_smoothing.ipynb)
+
+
+</ul>
+
+</details>
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### SQL
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### Codewars
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### 6_kyu
+
+</summary>
+
+<ul>
+
+   - ###### [SQL_Basics_Simple_EXISTS](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_EXISTS.sql)
+
+   - ###### [SQL_Basics_Simple_HAVING](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_HAVING.sql)
+
+   - ###### [SQL_Basics_Simple_JOIN_and_RANK](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_JOIN_and_RANK.sql)
+
+   - ###### [SQL_Basics_Top_10_customers_by_total_payments_amount](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Top_10_customers_by_total_payments_amount.sql)
+
+   - ###### [SQL_Basics___Monsters_using_CASE](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics___Monsters_using_CASE.sql)
+
+   - ###### [SQL_Bug_Fixing_Fix_the_JOIN](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Bug_Fixing_Fix_the_JOIN.sql)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### 7_kyu
+
+</summary>
+
+<ul>
+
+   - ###### [Best_Selling_Books_(SQL_for_Beginners_#5)](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/Best_Selling_Books_(SQL_for_Beginners_#5).sql)
+
+   - ###### [Complementary_DNA](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/Complementary_DNA.sql)
+
+   - ###### [Countries_Capitals_for_Trivia_Night_(SQL_for_Beginners_#6)](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/Countries_Capitals_for_Trivia_Night_(SQL_for_Beginners_#6).sql)
+
+   - ###### [Disemvowel_Trolls](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/Disemvowel_Trolls.sql)
+
+   - ###### [Maximum_Multiple](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/Maximum_Multiple.sql)
+
+   - ###### [SQL_Basics_Simple_GROUP_BY](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/SQL_Basics_Simple_GROUP_BY.sql)
+
+   - ###### [SQL_Basics_Simple_JOIN](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/SQL_Basics_Simple_JOIN.sql)
+
+   - ###### [SQL_Basics_Simple_JOIN_with_COUNT](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/SQL_Basics_Simple_JOIN_with_COUNT.sql)
+
+   - ###### [SQL_easy_regex_extraction](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/SQL_easy_regex_extraction.sql)
+
+   - ###### [SQL_with_Harry_Potter_Sorting_Hat_Comparators](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/SQL_with_Harry_Potter_Sorting_Hat_Comparators.sql)
+
+   - ###### [SQL_with_LOTR_Elven_Wildcards](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/SQL_with_LOTR_Elven_Wildcards.sql)
+
+   - ###### [SQL_with_Pokemon_Damage_Multipliers](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/SQL_with_Pokemon_Damage_Multipliers.sql)
+
+   - ###### [SQL_with_Street_Fighter_Total_Wins](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/SQL_with_Street_Fighter_Total_Wins.sql)
+
+   - ###### [Sum_of_angles](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/Sum_of_angles.sql)
+
+   - ###### [Sum_of_odd_numbers](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/Sum_of_odd_numbers.sql)
+
+   - ###### [Sum_of_Triangular_Numbers](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/Sum_of_Triangular_Numbers.sql)
+
+   - ###### [Triangular_Treasure](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/Triangular_Treasure.sql)
+
+   - ###### [Vowel_Count](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/7_kyu/Vowel_Count.sql)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### 8_kyu
+
+</summary>
+
+<ul>
+
+   - ###### [Adults_only_(SQL_for_Beginners_#1)](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Adults_only_(SQL_for_Beginners_#1).sql)
+
+   - ###### [Beginner_Series_#1_School_Paperwork](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Beginner_Series_#1_School_Paperwork.sql)
+
+   - ###### [Beginner_Series_#2_Clock](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Beginner_Series_#2_Clock.sql)
+
+   - ###### [Century_From_Year](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Century_From_Year.sql)
+
+   - ###### [Collect_Tuition_(SQL_for_Beginners_#4)](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Collect_Tuition_(SQL_for_Beginners_#4).sql)
+
+   - ###### [Convert_boolean_values_to_strings_'Yes'_or_'No'](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Convert_boolean_values_to_strings_'Yes'_or_'No'.sql)
+
+   - ###### [Count_Odd_Numbers_below_n](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Count_Odd_Numbers_below_n.sql)
+
+   - ###### [Count_the_number_of_cubes_with_paint_on](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Count_the_number_of_cubes_with_paint_on.sql)
+
+   - ###### [Even_or_Odd](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Even_or_Odd.sql)
+
+   - ###### [Expressions_Matter](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Expressions_Matter.sql)
+
+   - ###### [Fake_Binary](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Fake_Binary.sql)
+
+   - ###### [Find_all_active_students](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Find_all_active_students.sql)
+
+   - ###### [Function_2___squaring_an_argument](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Function_2___squaring_an_argument.sql)
+
+   - ###### [Get_Nth_Even_Number](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Get_Nth_Even_Number.sql)
+
+   - ###### [Grasshopper___Check_for_factor](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Grasshopper___Check_for_factor.sql)
+
+   - ###### [Grasshopper___Messi_goals_function](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Grasshopper___Messi_goals_function.sql)
+
+   - ###### [Grasshopper___Summation](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Grasshopper___Summation.sql)
+
+   - ###### [Grasshopper___Terminal_game_move_function](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Grasshopper___Terminal_game_move_function.sql)
+
+   - ###### [Is_it_a_palindrome](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Is_it_a_palindrome.sql)
+
+   - ###### [Is_n_divisible_by_x_and_y](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Is_n_divisible_by_x_and_y.sql)
+
+   - ###### [Keep_Hydrated!](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Keep_Hydrated!.sql)
+
+   - ###### [MakeUpperCase](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/MakeUpperCase.sql)
+
+   - ###### [Multiply](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Multiply.sql)
+
+   - ###### [On_the_Canadian_Border_(SQL_for_Beginners_#2)](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/On_the_Canadian_Border_(SQL_for_Beginners_#2).sql)
+
+   - ###### [Opposites_Attract](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Opposites_Attract.sql)
+
+   - ###### [Opposite_number](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Opposite_number.sql)
+
+   - ###### [Quarter_of_the_year](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Quarter_of_the_year.sql)
+
+   - ###### [Register_for_the_Party_(SQL_for_Beginners_#3)](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Register_for_the_Party_(SQL_for_Beginners_#3).sql)
+
+   - ###### [Remove_exclamation_marks](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Remove_exclamation_marks.sql)
+
+   - ###### [Remove_First_and_Last_Character](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Remove_First_and_Last_Character.sql)
+
+   - ###### [Remove_String_Spaces](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Remove_String_Spaces.sql)
+
+   - ###### [Returning_Strings](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Returning_Strings.sql)
+
+   - ###### [Reversed_Strings](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Reversed_Strings.sql)
+
+   - ###### [Simple_multiplication](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Simple_multiplication.sql)
+
+   - ###### [SQL_Basics_Mod](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/SQL_Basics_Mod.sql)
+
+   - ###### [String_repeat](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/String_repeat.sql)
+
+   - ###### [Third_Angle_of_a_Triangle](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Third_Angle_of_a_Triangle.sql)
+
+   - ###### [Will_you_make_it](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Will_you_make_it.sql)
+
+
+</ul>
+
+</details>
+
+
+</ul>
+
+</details>
+
+
+</ul>
+
+</details>
+
+
+
+<details>
+
+<summary>
+
+
+
+### C#
+
+
+
+</summary>
+
+
+
+
+
+<ul>
+
+
 
 - ## Algorithms:
-   - ###### [Dijkstraâ€™s algorithm](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L169-L230)
+
+   - ###### [Dijkstra’s algorithm](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L169-L230)
+
    
+
    - ###### [Simulated annealing](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L12-L109)
+
    
+
    - ###### [Knight's tour](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L235-L322)
+
    
+
    - ###### [Brute force all paths on the graph between two points](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L114-L164)
 
+
+
 - ## Structures:
+
    - ###### [Graph](https://github.com/shi-i-chan//practice/tree/main/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs?plain=1#L369-L456)
 
+
+
 - ## Other:
+
   - ###### [Brown-Robinson iterative method](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Brown-Robinson%20iterative%20method%20FORM.cs)
+
   
-  <ul>
-   
-  ![image](https://github.com/shi-i-chan/some-practice/blob/master/C%23/Game%20theory/brown%20form.jpg)
-   
-  </ul>
-  
+
   - ###### [Matrix without saddle point generator](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Matrix%20generator%20without%20saddle%20point.cs)
 
+
+
 </ul>
+
+
 
 </details>
 
+
+
 <details>
+
 <summary>
-Assembler
+
+
+
+### Assembler
+
+
+
 </summary>
 
+
+
 <ul>
+
   
+
   - ###### [PWM](https://github.com/No1n/some-programming/blob/master/assembler/PWM.asm)
+
   - ###### [Flashing diod](https://github.com/No1n/some-programming/blob/master/assembler/flashing%20diod.asm)
 
+
+
 </ul>
+
+
 
 </details>
 
+
+
 <details>
+
 <summary>
-Verilog
+
+
+
+### Verilog
+
+
+
 </summary>
 
+
+
 <ul>
+
   
+
   - ###### [PWM](https://github.com/No1n/some-programming/blob/master/verilog/PWM/PWM.v)
 
+
+
 </ul>
+
+
 
 </details>
 

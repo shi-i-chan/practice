@@ -1,7 +1,11 @@
+
 <details>
 <summary>
-C#
+
+### C#
+
 </summary>
+
 
 <ul>
 
@@ -19,12 +23,6 @@ C#
 
 - ## Other:
   - ###### [Brown-Robinson iterative method](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Brown-Robinson%20iterative%20method%20FORM.cs)
-  
-  <ul>
-   
-  ![image](https://github.com/shi-i-chan/some-practice/blob/master/C%23/Game%20theory/brown%20form.jpg)
-   
-  </ul>
   
   - ###### [Matrix without saddle point generator](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Matrix%20generator%20without%20saddle%20point.cs)
 
