@@ -280,6 +280,8 @@ Generated automatically
 
    - ###### [Find_the_odd_int](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Find_the_odd_int.py)
 
+   - ###### [Handshake_problem](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Handshake_problem.py)
+
    - ###### [Levenshtein_Distance](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Levenshtein_Distance.py)
 
    - ###### [Split_Strings](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Split_Strings.py)
@@ -569,6 +571,8 @@ Generated automatically
 </summary>
 
 <ul>
+
+   - ###### [Handshake_problem](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/Handshake_problem.sql)
 
    - ###### [SQL_Basics_Simple_EXISTS](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_EXISTS.sql)
 
