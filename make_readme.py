@@ -86,6 +86,7 @@ extensions_list = [
 	'.py',
 	'.ipynb',
 	'.sql',
+	'.cpp',
 ]
 
 gen_lagns = ['python', 'SQL', 'C++']

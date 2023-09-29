@@ -775,6 +775,10 @@ Generated automatically
 
 <ul>
 
+   - ###### [Sum_of_positive](https://github.com/shi-i-chan/practice/tree/main/C++/Codewars/8_kyu/Sum_of_positive.cpp)
+
+   - ###### [What_is_between](https://github.com/shi-i-chan/practice/tree/main/C++/Codewars/8_kyu/What_is_between.cpp)
+
 
 </ul>
 
