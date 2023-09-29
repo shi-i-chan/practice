@@ -88,7 +88,7 @@ extensions_list = [
 	'.sql',
 ]
 
-gen_lagns = ['python', 'SQL']
+gen_lagns = ['python', 'SQL', 'C++']
 read_langs = ['C#', 'assembler', 'verilog']
 
 

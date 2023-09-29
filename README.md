@@ -272,6 +272,8 @@ Generated automatically
 
 <ul>
 
+   - ###### [Chaser's_schedule](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Chaser's_schedule.py)
+
    - ###### [Count_characters_in_your_string](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Count_characters_in_your_string.py)
 
    - ###### [Decompose_a_number](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Decompose_a_number.py)
@@ -727,6 +729,51 @@ Generated automatically
    - ###### [Third_Angle_of_a_Triangle](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Third_Angle_of_a_Triangle.sql)
 
    - ###### [Will_you_make_it](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/8_kyu/Will_you_make_it.sql)
+
+
+</ul>
+
+</details>
+
+
+</ul>
+
+</details>
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### C++
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### Codewars
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### 8_kyu
+
+</summary>
+
+<ul>
 
 
 </ul>
