@@ -90,7 +90,7 @@ extensions_list = [
 ]
 
 gen_lagns = ['python', 'SQL', 'C++']
-read_langs = ['C#', 'assembler', 'verilog']
+read_langs = ['C#', 'Assembly', 'Verilog']
 
 
 info = generate_readme(gen_lagns)
