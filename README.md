@@ -286,6 +286,8 @@ Generated automatically
 
    - ###### [Levenshtein_Distance](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Levenshtein_Distance.py)
 
+   - ###### [Multiplication_table](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Multiplication_table.py)
+
    - ###### [Split_Strings](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Split_Strings.py)
 
    - ###### [Tribonacci_Sequence](https://github.com/shi-i-chan/practice/tree/main/python/codewars/6_kyu/Tribonacci_Sequence.py)
@@ -769,11 +771,30 @@ Generated automatically
 <details>
 <summary>
 
+### 6_kyu
+
+</summary>
+
+<ul>
+
+   - ###### [Multiplication_table](https://github.com/shi-i-chan/practice/tree/main/C++/Codewars/6_kyu/Multiplication_table.cpp)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
 ### 8_kyu
 
 </summary>
 
 <ul>
+
+   - ###### [Fake_Binary](https://github.com/shi-i-chan/practice/tree/main/C++/Codewars/8_kyu/Fake_Binary.cpp)
 
    - ###### [Sum_of_positive](https://github.com/shi-i-chan/practice/tree/main/C++/Codewars/8_kyu/Sum_of_positive.cpp)
 
