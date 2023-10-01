@@ -349,6 +349,8 @@ Generated automatically
 
    - ###### [dense_autoencoder](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/autoencoders/dense_autoencoder.ipynb)
 
+   - ###### [dense_autoencoder_denoising](https://github.com/shi-i-chan/practice/tree/main/python/machine_learning/autoencoders/dense_autoencoder_denoising.ipynb)
+
 
 </ul>
 
@@ -577,6 +579,8 @@ Generated automatically
 <ul>
 
    - ###### [Handshake_problem](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/Handshake_problem.sql)
+
+   - ###### [SQL_Basics_Simple_UNION_ALL](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_UNION_ALL.sql)
 
    - ###### [SQL_Basics_Simple_EXISTS](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_EXISTS.sql)
 

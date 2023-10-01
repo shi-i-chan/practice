@@ -25,8 +25,10 @@ def limit_memory(gb: int) -> NoReturn:
 
 class DefAutoencoder:
     def __init__(self,
-                 x_train: NDArray,
-                 x_test: NDArray,
+                 x_train_in: NDArray,
+                 x_test_in: NDArray,
+                 x_train_out: NDArray = None,
+                 x_test_out: NDArray = None,
                  optimizer: str = 'Adam',
                  learning_rate: float = 1e-3,
                  loss: str = 'mse',
@@ -35,8 +37,10 @@ class DefAutoencoder:
         self.optimizer: optimizers = getattr(optimizers, optimizer)(learning_rate=learning_rate)
         self.loss: str = loss
         self.activation: str = activation
-        self.x_train: NDArray = x_train
-        self.x_test: NDArray = x_test
+        self.x_train_in: NDArray = x_train_in
+        self.x_train_out: NDArray = x_train_in if x_train_out is None else x_train_out
+        self.x_test_in: NDArray = x_test_in
+        self.x_test_out: NDArray = x_test_in if x_test_out is None else x_test_out
         self.encoder: Model = None
         self.decoder: Model = None
         self.autoencoder: Model = None
@@ -47,9 +51,9 @@ class DefAutoencoder:
     def fit(self,
             epochs: int,
             batch_size: int) -> NoReturn:
-        self.autoencoder.fit(self.x_train,
-                             self.x_train,
-                             validation_data=(self.x_test, self.x_test),
+        self.autoencoder.fit(self.x_train_in,
+                             self.x_train_out,
+                             validation_data=(self.x_test_in, self.x_test_out),
                              epochs=epochs,
                              batch_size=batch_size)
         
@@ -64,11 +68,11 @@ class DefAutoencoder:
         return self.decoder.predict(data)
     
     def show_examples(self, n: int = 10) -> NoReturn:
-        decoded_imgs = self.autoencoder.predict(self.x_test)
+        decoded_imgs = self.autoencoder.predict(self.x_test_in)
         plt.figure(figsize=(20, 4))
         for i in range(n):
             ax = plt.subplot(2, n, i + 1)
-            plt.imshow(self.x_test[i].reshape(28, 28))
+            plt.imshow(self.x_test_in[i].reshape(28, 28))
             plt.gray()
             ax.get_xaxis().set_visible(False)
             ax.get_yaxis().set_visible(False)
