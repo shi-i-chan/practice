@@ -253,6 +253,8 @@ Generated automatically
 
 <ul>
 
+   - ###### [Blackjack_Scorer](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Blackjack_Scorer.py)
+
    - ###### [Extract_the_domain_name_from_a_URL](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Extract_the_domain_name_from_a_URL.py)
 
    - ###### [Moving_Zeros_To_The_End](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Moving_Zeros_To_The_End.py)
@@ -580,13 +582,15 @@ Generated automatically
 
    - ###### [Handshake_problem](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/Handshake_problem.sql)
 
-   - ###### [SQL_Basics_Simple_UNION_ALL](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_UNION_ALL.sql)
+   - ###### [SQL_Basics_Simple_table_totaling](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_table_totaling.sql)
 
    - ###### [SQL_Basics_Simple_EXISTS](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_EXISTS.sql)
 
    - ###### [SQL_Basics_Simple_HAVING](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_HAVING.sql)
 
    - ###### [SQL_Basics_Simple_JOIN_and_RANK](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_JOIN_and_RANK.sql)
+
+   - ###### [SQL_Basics_Simple_UNION_ALL](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_UNION_ALL.sql)
 
    - ###### [SQL_Basics_Top_10_customers_by_total_payments_amount](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Top_10_customers_by_total_payments_amount.sql)
 
@@ -780,6 +784,8 @@ Generated automatically
 </summary>
 
 <ul>
+
+   - ###### [Multiples_of_3_or_5](https://github.com/shi-i-chan/practice/tree/main/C++/Codewars/6_kyu/Multiples_of_3_or_5.cpp)
 
    - ###### [Multiplication_table](https://github.com/shi-i-chan/practice/tree/main/C++/Codewars/6_kyu/Multiplication_table.cpp)
 
