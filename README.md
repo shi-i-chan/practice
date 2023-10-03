@@ -259,6 +259,8 @@ Generated automatically
 
    - ###### [Moving_Zeros_To_The_End](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Moving_Zeros_To_The_End.py)
 
+   - ###### [Simple_Pig_Latin](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Simple_Pig_Latin.py)
+
 
 </ul>
 
@@ -582,13 +584,13 @@ Generated automatically
 
    - ###### [Handshake_problem](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/Handshake_problem.sql)
 
-   - ###### [SQL_Basics_Simple_table_totaling](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_table_totaling.sql)
-
    - ###### [SQL_Basics_Simple_EXISTS](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_EXISTS.sql)
 
    - ###### [SQL_Basics_Simple_HAVING](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_HAVING.sql)
 
    - ###### [SQL_Basics_Simple_JOIN_and_RANK](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_JOIN_and_RANK.sql)
+
+   - ###### [SQL_Basics_Simple_table_totaling](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_table_totaling.sql)
 
    - ###### [SQL_Basics_Simple_UNION_ALL](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_UNION_ALL.sql)
 
@@ -784,6 +786,8 @@ Generated automatically
 </summary>
 
 <ul>
+
+   - ###### [Find_the_odd_int](https://github.com/shi-i-chan/practice/tree/main/C++/Codewars/6_kyu/Find_the_odd_int.cpp)
 
    - ###### [Multiples_of_3_or_5](https://github.com/shi-i-chan/practice/tree/main/C++/Codewars/6_kyu/Multiples_of_3_or_5.cpp)
 
