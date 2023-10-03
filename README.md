@@ -257,6 +257,8 @@ Generated automatically
 
    - ###### [Extract_the_domain_name_from_a_URL](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Extract_the_domain_name_from_a_URL.py)
 
+   - ###### [Human_Readable_Time](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Human_Readable_Time.py)
+
    - ###### [Moving_Zeros_To_The_End](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Moving_Zeros_To_The_End.py)
 
    - ###### [Simple_Pig_Latin](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Simple_Pig_Latin.py)
