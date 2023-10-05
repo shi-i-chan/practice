@@ -261,6 +261,8 @@ Generated automatically
 
    - ###### [Moving_Zeros_To_The_End](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Moving_Zeros_To_The_End.py)
 
+   - ###### [RGB_To_Hex_Conversion](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/RGB_To_Hex_Conversion.py)
+
    - ###### [Simple_Pig_Latin](https://github.com/shi-i-chan/practice/tree/main/python/codewars/5_kyu/Simple_Pig_Latin.py)
 
 
