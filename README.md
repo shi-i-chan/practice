@@ -760,7 +760,7 @@ Generated automatically
 <details>
 <summary>
 
-### Интерактивный_тренажер_по_SQL
+### Interactive_SQL_trainer_Stepik
 
 </summary>
 
@@ -776,11 +776,11 @@ Generated automatically
 
 <ul>
 
-   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.1/1.sql)
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.1/1.sql)
 
-   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.1/2.sql)
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.1/2.sql)
 
-   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.1/3.sql)
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.1/3.sql)
 
 
 </ul>
@@ -797,27 +797,27 @@ Generated automatically
 
 <ul>
 
-   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/1.sql)
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/1.sql)
 
-   - ###### [10](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/10.sql)
+   - ###### [10](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/10.sql)
 
-   - ###### [11](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/11.sql)
+   - ###### [11](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/11.sql)
 
-   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/2.sql)
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/2.sql)
 
-   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/3.sql)
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/3.sql)
 
-   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/4.sql)
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/4.sql)
 
-   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/5.sql)
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/5.sql)
 
-   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/6.sql)
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/6.sql)
 
-   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/7.sql)
+   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/7.sql)
 
-   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/8.sql)
+   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/8.sql)
 
-   - ###### [9](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.2/9.sql)
+   - ###### [9](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.2/9.sql)
 
 
 </ul>
@@ -834,21 +834,21 @@ Generated automatically
 
 <ul>
 
-   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.3/1.sql)
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.3/1.sql)
 
-   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.3/2.sql)
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.3/2.sql)
 
-   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.3/3.sql)
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.3/3.sql)
 
-   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.3/4.sql)
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.3/4.sql)
 
-   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.3/5.sql)
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.3/5.sql)
 
-   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.3/6.sql)
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.3/6.sql)
 
-   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.3/7.sql)
+   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.3/7.sql)
 
-   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.3/8.sql)
+   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.3/8.sql)
 
 
 </ul>
@@ -865,17 +865,17 @@ Generated automatically
 
 <ul>
 
-   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.4/1.sql)
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.4/1.sql)
 
-   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.4/2.sql)
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.4/2.sql)
 
-   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.4/3.sql)
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.4/3.sql)
 
-   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.4/4.sql)
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.4/4.sql)
 
-   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.4/5.sql)
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.4/5.sql)
 
-   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.4/6.sql)
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.4/6.sql)
 
 
 </ul>
@@ -892,25 +892,25 @@ Generated automatically
 
 <ul>
 
-   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.5/1.sql)
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.5/1.sql)
 
-   - ###### [10](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.5/10.sql)
+   - ###### [10](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.5/10.sql)
 
-   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.5/2.sql)
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.5/2.sql)
 
-   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.5/3.sql)
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.5/3.sql)
 
-   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.5/4.sql)
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.5/4.sql)
 
-   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.5/5.sql)
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.5/5.sql)
 
-   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.5/6.sql)
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.5/6.sql)
 
-   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.5/7.sql)
+   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.5/7.sql)
 
-   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.5/8.sql)
+   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.5/8.sql)
 
-   - ###### [9](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.5/9.sql)
+   - ###### [9](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.5/9.sql)
 
 
 </ul>
@@ -927,25 +927,25 @@ Generated automatically
 
 <ul>
 
-   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.6/1.sql)
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.6/1.sql)
 
-   - ###### [10](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.6/10.sql)
+   - ###### [10](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.6/10.sql)
 
-   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.6/2.sql)
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.6/2.sql)
 
-   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.6/3.sql)
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.6/3.sql)
 
-   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.6/4.sql)
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.6/4.sql)
 
-   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.6/5.sql)
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.6/5.sql)
 
-   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.6/6.sql)
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.6/6.sql)
 
-   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.6/7.sql)
+   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.6/7.sql)
 
-   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.6/8.sql)
+   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.6/8.sql)
 
-   - ###### [9](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.6/9.sql)
+   - ###### [9](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.6/9.sql)
 
 
 </ul>
@@ -962,21 +962,21 @@ Generated automatically
 
 <ul>
 
-   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.7/1.sql)
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.7/1.sql)
 
-   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.7/2.sql)
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.7/2.sql)
 
-   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.7/3.sql)
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.7/3.sql)
 
-   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.7/4.sql)
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.7/4.sql)
 
-   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.7/5.sql)
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.7/5.sql)
 
-   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.7/6.sql)
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.7/6.sql)
 
-   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.7/7.sql)
+   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.7/7.sql)
 
-   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Интерактивный_тренажер_по_SQL/1.7/8.sql)
+   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/1.7/8.sql)
 
 
 </ul>
