@@ -1,4 +1,2 @@
-SELECT
-  str,
-  REVERSE(str) as res
-FROM solution;
+SELECT str, REVERSE(str) AS res
+  FROM solution;

@@ -1,3 +1,2 @@
-SELECT
-  number * -1 as res
-FROM opposite;
+SELECT number * -1 AS res
+  FROM opposite;

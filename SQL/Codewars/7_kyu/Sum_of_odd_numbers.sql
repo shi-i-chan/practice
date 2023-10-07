@@ -1,4 +1,2 @@
-SELECT
-  n * n * n
-    AS res
-FROM nums;
+SELECT n * n * n AS res
+  FROM nums;

@@ -1,5 +1,2 @@
-SELECT
-  s,
-  REPLACE(s, '!', '')
-    AS res
-FROM removeexclamationmarks;
+SELECT s, REPLACE(s, '!', '') AS res
+  FROM removeexclamationmarks;

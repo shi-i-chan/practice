@@ -1,4 +1,2 @@
-SELECT
-  s,
-  UPPER(s) as res
-FROM makeuppercase;
+SELECT s, UPPER(s) AS res
+  FROM makeuppercase;

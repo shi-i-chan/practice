@@ -1,3 +1,3 @@
 SELECT *
-FROM users
-WHERE age >= 18;
+  FROM users
+ WHERE age >= 18;

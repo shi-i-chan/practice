@@ -1,4 +1,2 @@
-SELECT
-  yr,
-  (yr - 1) / 100 + 1 as century
-FROM years;
+SELECT yr, (yr - 1) / 100 + 1 AS century
+  FROM years;

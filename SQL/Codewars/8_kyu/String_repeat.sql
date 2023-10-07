@@ -1,5 +1,2 @@
-SELECT
-  s,
-  n,
-  REPEAT(s, n) as res
-FROM repeatstr;
+SELECT s, n, REPEAT(s, n) AS res
+  FROM repeatstr;

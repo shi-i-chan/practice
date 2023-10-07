@@ -1,2 +1,2 @@
-SELECT name, greeting, replace(substring(greeting, '#[\d]+'), '#', '') as user_id
-FROM greetings;
+SELECT name, greeting, replace(substring(greeting, '#[\d]+'), '#', '') AS user_id
+  FROM greetings;

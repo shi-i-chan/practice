@@ -1,5 +1,2 @@
-SELECT
-  str,
-  TRANSLATE(str, 'aeiouAEIOU', '')
-    AS res
-FROM disemvowel;
+SELECT str, TRANSLATE(str, 'aeiouAEIOU', '') AS res
+  FROM disemvowel;

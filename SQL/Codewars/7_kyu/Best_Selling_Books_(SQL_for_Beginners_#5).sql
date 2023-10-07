@@ -1,4 +1,4 @@
 SELECT *
-FROM books
-ORDER BY copies_sold DESC
-LIMIT 5;
+  FROM books
+ ORDER BY copies_sold DESC
+ LIMIT 5;

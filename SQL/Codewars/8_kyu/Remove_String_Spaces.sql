@@ -1,5 +1,2 @@
-SELECT
-  x,
-  REPLACE(x, ' ', '')
-    AS res
-FROM nospace;
+SELECT x, REPLACE(x, ' ', '') AS res
+  FROM nospace;
