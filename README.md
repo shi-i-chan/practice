@@ -984,6 +984,91 @@ Generated automatically
 </details>
 
 
+<details>
+<summary>
+
+### 2.1
+
+</summary>
+
+<ul>
+
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.1/1.sql)
+
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.1/2.sql)
+
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.1/3.sql)
+
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.1/4.sql)
+
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.1/5.sql)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### 2.2
+
+</summary>
+
+<ul>
+
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.2/1.sql)
+
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.2/2.sql)
+
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.2/3.sql)
+
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.2/4.sql)
+
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.2/5.sql)
+
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.2/6.sql)
+
+   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.2/7.sql)
+
+   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.2/8.sql)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### 2.3
+
+</summary>
+
+<ul>
+
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.3/1.sql)
+
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.3/2.sql)
+
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.3/3.sql)
+
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.3/4.sql)
+
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.3/5.sql)
+
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.3/6.sql)
+
+   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.3/7.sql)
+
+
+</ul>
+
+</details>
+
+
 </ul>
 
 </details>
