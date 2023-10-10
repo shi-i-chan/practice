@@ -580,6 +580,25 @@ Generated automatically
 <details>
 <summary>
 
+### 5_kyu
+
+</summary>
+
+<ul>
+
+   - ###### [Relational_division_Find_all_movies_two_actors_cast_in_together](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/5_kyu/Relational_division_Find_all_movies_two_actors_cast_in_together.sql)
+
+   - ###### [SQL_Statistics_MIN,_MEDIAN,_MAX](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/5_kyu/SQL_Statistics_MIN,_MEDIAN,_MAX.sql)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
 ### 6_kyu
 
 </summary>
@@ -587,6 +606,8 @@ Generated automatically
 <ul>
 
    - ###### [Handshake_problem](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/Handshake_problem.sql)
+
+   - ###### [SQL_Basics_Simple_IN](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_IN.sql)
 
    - ###### [SQL_Basics_Simple_EXISTS](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_EXISTS.sql)
 
@@ -1103,6 +1124,39 @@ Generated automatically
    - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.4/8.sql)
 
    - ###### [9](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.4/9.sql)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### 2.5
+
+</summary>
+
+<ul>
+
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/1.sql)
+
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/2.sql)
+
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/3.sql)
+
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/4.sql)
+
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/5.sql)
+
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/6.sql)
+
+   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/7.sql)
+
+   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/8.sql)
+
+   - ###### [9](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/9.sql)
 
 
 </ul>
