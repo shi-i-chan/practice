@@ -607,11 +607,11 @@ Generated automatically
 
    - ###### [Handshake_problem](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/Handshake_problem.sql)
 
-   - ###### [SQL_Basics_Simple_IN](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_IN.sql)
-
    - ###### [SQL_Basics_Simple_EXISTS](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_EXISTS.sql)
 
    - ###### [SQL_Basics_Simple_HAVING](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_HAVING.sql)
+
+   - ###### [SQL_Basics_Simple_IN](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_IN.sql)
 
    - ###### [SQL_Basics_Simple_JOIN_and_RANK](https://github.com/shi-i-chan/practice/tree/main/SQL/Codewars/6_kyu/SQL_Basics_Simple_JOIN_and_RANK.sql)
 
@@ -1157,6 +1157,39 @@ Generated automatically
    - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/8.sql)
 
    - ###### [9](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/2.5/9.sql)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### 3.1
+
+</summary>
+
+<ul>
+
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.1/1.sql)
+
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.1/2.sql)
+
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.1/3.sql)
+
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.1/4.sql)
+
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.1/5.sql)
+
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.1/6.sql)
+
+   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.1/7.sql)
+
+   - ###### [8](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.1/8.sql)
+
+   - ###### [9](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.1/9.sql)
 
 
 </ul>
