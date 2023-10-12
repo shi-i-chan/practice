@@ -1197,6 +1197,29 @@ Generated automatically
 </details>
 
 
+<details>
+<summary>
+
+### 3.2
+
+</summary>
+
+<ul>
+
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.2/1.sql)
+
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.2/2.sql)
+
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.2/3.sql)
+
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.2/4.sql)
+
+
+</ul>
+
+</details>
+
+
 </ul>
 
 </details>
