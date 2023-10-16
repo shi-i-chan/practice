@@ -1255,6 +1255,35 @@ Generated automatically
 </details>
 
 
+<details>
+<summary>
+
+### 3.4
+
+</summary>
+
+<ul>
+
+   - ###### [1](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.4/1.sql)
+
+   - ###### [2](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.4/2.sql)
+
+   - ###### [3](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.4/3.sql)
+
+   - ###### [4](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.4/4.sql)
+
+   - ###### [5](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.4/5.sql)
+
+   - ###### [6](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.4/6.sql)
+
+   - ###### [7](https://github.com/shi-i-chan/practice/tree/main/SQL/Interactive_SQL_trainer_Stepik/3.4/7.sql)
+
+
+</ul>
+
+</details>
+
+
 </ul>
 
 </details>
