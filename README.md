@@ -87,6 +87,57 @@ Generated automatically
 <details>
 <summary>
 
+### bybit_announcements_parser
+
+</summary>
+
+<ul>
+
+
+<details>
+<summary>
+
+### code
+
+</summary>
+
+<ul>
+
+   - ###### [api_parser](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/other/bybit_announcements_parser/code/api_parser.py)
+
+   - ###### [bs_parser](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/other/bybit_announcements_parser/code/bs_parser.py)
+
+   - ###### [utils](https://github.com/shi-i-chan/practice/tree/main/python/algorithms/other/bybit_announcements_parser/code/utils.py)
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
+### data
+
+</summary>
+
+<ul>
+
+
+</ul>
+
+</details>
+
+
+</ul>
+
+</details>
+
+
+<details>
+<summary>
+
 ### maze_exploration
 
 </summary>
